@@ -34,7 +34,7 @@
     "lodash": "^4.17.15",
     "mini-css-extract-plugin": "^0.5.0",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "react": "^16.13.1",
     "react-advanced-datetimerange-picker": "^1.0.10",
     "react-datepicker": "^2.14.1",
